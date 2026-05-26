@@ -1,6 +1,5 @@
 ## Valheim server that runs inside a Docker container
-[![Docker Automated build](https://img.shields.io/docker/automated/didstopia/valheim-server.svg)](https://hub.docker.com/r/didstopia/valheim-server/)
-[![Docker build status](https://img.shields.io/docker/build/didstopia/valheim-server.svg)](https://hub.docker.com/r/didstopia/valheim-server/)
+[![Build](https://github.com/Didstopia/valheim-server/actions/workflows/build.yml/badge.svg)](https://github.com/Didstopia/valheim-server/actions/workflows/build.yml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/didstopia/valheim-server.svg)](https://hub.docker.com/r/didstopia/valheim-server/)
 [![Docker stars](https://img.shields.io/docker/stars/didstopia/valheim-server.svg)](https://hub.docker.com/r/didstopia/valheim-server)
 
